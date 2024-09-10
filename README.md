@@ -22,4 +22,7 @@ git add . Adds all the changes to the file
 6)git commit -m"message"
 It is used to save all the changes we have made till now with a message for the changes we have made.
 
+7)git push origin main
+It pushes the content of repo from your local computer to the remote github repo
+
 
